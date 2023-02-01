@@ -1,17 +1,17 @@
-<h1 align="center"> Hi there 👋 I'm Eduardo Siridakis </h1>
+<h1 align="center"> Hi there 👋 I'm Eduardo </h1>
 <h2 align="center" >I have a bachelor's and master's degree in Electrical Engineering <br>and work as a Front-End Developer</h2>
 
-<h3 align="center">Reach me in:</h3>
-<p align="center">  
+<h3 align="center"><br>Reach me at:</h3>
+<p align="center"> 
 <a href="mailto:eduardosiridakis@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail to: Gmail"  /></a>
 </p>
   
-<h3 align="center">Connect with me:</h3>
+<h3 align="center"><br>Let's get connected:</h3>
 <p align="center">  
 <a href="https://www.linkedin.com/in/esiridakis/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn profile" height="50" width="50" /></a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center"><br>Skills:</h3>
 <div align="center">
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS" /></code>
